@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'ml-house'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65F42C78885240C091F2E3457A252F2E }}
+          publish-profile: ${{ secrets.PASSWORD }}
