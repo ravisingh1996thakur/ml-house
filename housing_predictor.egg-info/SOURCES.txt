@@ -2,6 +2,12 @@ LICENSE
 README.md
 setup.py
 housing/__init__.py
+housing/component/__init__.py
+housing/config/__init__.py
+housing/entity/__init__.py
+housing/exception/__init__.py
+housing/logger/__init__.py
+housing/pipeline/__init__.py
 housing_predictor.egg-info/PKG-INFO
 housing_predictor.egg-info/SOURCES.txt
 housing_predictor.egg-info/dependency_links.txt

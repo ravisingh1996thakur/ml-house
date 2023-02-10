@@ -1,0 +1,3 @@
+[2023-02-10 19:32:48,654]^;WARNING^;224^;_internal.py^;_log()^; * Debugger is active!
+[2023-02-10 19:32:48,664]^;INFO^;224^;_internal.py^;_log()^; * Debugger PIN: 250-492-932
+[2023-02-10 19:33:07,883]^;INFO^;224^;_internal.py^;_log()^; * Detected change in '/Users/ravisingh/ml-house/housing/logger/__init__.py', reloading
