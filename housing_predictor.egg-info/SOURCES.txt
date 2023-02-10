@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+housing/__init__.py
+housing_predictor.egg-info/PKG-INFO
+housing_predictor.egg-info/SOURCES.txt
+housing_predictor.egg-info/dependency_links.txt
+housing_predictor.egg-info/requires.txt
+housing_predictor.egg-info/top_level.txt
