@@ -2,7 +2,7 @@
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
 
-name: Build and deploy Python app to Azure Web App - gre-prediction
+name: Build and deploy Python app to Azure Web App - ml-house
 
 on:
   push:
@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ml-house'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65F42C78885240C091F2E3457A252F2E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_GdDs5hHJNWoBmmpShi7dwztBA6mbgmuPvNgcLMaMw9l0BE7aBjzF9NwxnsAj }}
